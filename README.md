@@ -4,8 +4,7 @@
 <h3 align="center">A passionate Web Developer from Buenos Aires, Argentina</h3>
 <h6 align="center">Currently training as a Full Stack Web Developer at the HENRY academy</h6>
 
-- 🌱 I’m currently learning **React**
-- 🌱 I’m currently learning **React, Javascript and Node.JS**
+- 🌱 I’m currently learning **React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL, **
 
 - 📫 How to reach me **abrillopizzo@gmail.com**
 
